@@ -35,6 +35,8 @@ to be available for VR display using Web browser.
 
  $sudo apt-get install scrot
 
+ $sudo apt-get install celestia
+
 ## Python installation
  $virtualenv localpy
 
